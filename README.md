@@ -1,2 +1,2 @@
 # projeto_v1
-meu primeiro projeto teste da aula do GitHub
+Meu primeiro projeto da aula do GitHub
