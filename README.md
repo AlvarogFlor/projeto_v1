@@ -3,4 +3,4 @@
 ## Meu primeiro projeto da aula do GitHub
 
 - Clonando o repositório remoto
-- Criada a branch projeto_v1
+- Criada a branch projeto_v02
