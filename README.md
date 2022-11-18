@@ -4,3 +4,4 @@
 
 - Clonando o repositório remoto
 - Criada a branch projeto_v02
+- Projeto iniciado.
