@@ -7,7 +7,7 @@
 
 ### Sobre o projeto
 
-Projeto para teste de como fazer um README mais proficional no GitHub.
+Projeto para teste de como fazer um README proficional no GitHub.
 
 ## Métodos
 
